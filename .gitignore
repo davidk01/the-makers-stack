@@ -1,0 +1,6 @@
+.vagrant/
+jenkins.war
+atlassian-mirror
+docker-registry-mirror
+yum-mirror
+*.swp
